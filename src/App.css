@@ -3,6 +3,7 @@
   padding: 0;
   height: 100vh;
   box-sizing: border-box;
+  
 }
 
 video {
@@ -29,7 +30,12 @@ video {
   justify-content: center;
   align-items: center;
   text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
 }
+
+
 
 .card {
   background: whitesmoke;

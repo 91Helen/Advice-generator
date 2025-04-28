@@ -1,4 +1,16 @@
 // export const colors= [ '#81E7AF','red','#6DE1D2']
-export const colors = ['https://t3.ftcdn.net/jpg/01/21/06/48/240_F_121064813_5CONOqmYSLyCLJlkRn3FsUl8733cg2qc.jpg',
-    'https://t4.ftcdn.net/jpg/01/04/78/75/240_F_104787586_63vz1PkylLEfSfZ08dqTnqJqlqdq0eXx.jpg',
-    'https://t4.ftcdn.net/jpg/01/04/78/75/240_F_104787586_63vz1PkylLEfSfZ08dqTnqJqlqdq0eXx.jpg'];
+export const images = ['https://dklkud2sn1tvi.cloudfront.net/blogposts/656d9c0509b9c7bee7abaac0/173058-363930.jpeg',
+    'https://www.shutterstock.com/image-photo/child-plays-on-wooden-swing-600nw-2418520253.jpg',
+    'https://images.pexels.com/photos/147411/italy-mountains-dawn-daybreak-147411.jpeg?cs=srgb&dl=pexels-pixabay-147411.jpg&fm=jpg',
+    'https://i.insider.com/629f648a7bc6a80018b6b136?width=700',
+'https://blog.davincilabs.com/hubfs/athlete-recovery.png',
+'https://promisecare.com/wp-content/uploads/sites/44/2024/02/Living-Healthy-Yoga-Field.jpg',
+'https://npr.brightspotcdn.com/dims4/default/118409c/2147483647/strip/true/crop/1000x667+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2Fa4%2Fb93bf67b42ffa8298d56f195b764%2Fmorning-exercise-1.jpg',
+'https://arthritis.ca/getmedia/4a448039-7291-4ab7-b5b9-1fa95f75e571/Warm-weather-activities.jpg?width=534&height=334&ext=.jpg',
+'https://fitness-nation.net/wp-content/uploads/2020/12/The-Benefits-of-Exercising-Outdoors-Fitness-Nation-scaled-1.jpg',
+'https://www.woodlandtrust.org.uk/media/47715/woman-running-in-woodland-alamy-f8nrp9-ian-allenden.jpg',
+'https://sproutliving.com/cdn/shop/articles/Benefits-of-Exercising-Outside.jpg?v=1631292829',
+'https://wpassets.trainingpeaks.com/wp-content/uploads/2023/01/04133900/23001-Blog-1200x675-1.jpg',
+'https://wordpresscmsprodstor.blob.core.windows.net/wp-cms/2021/11/65.webp',
+'https://cdn.shopify.com/s/files/1/0564/6411/3852/files/beautiful-sporty-girl-stylish-sportswear-squatting-with-rubber-band-during-workout-city-stadium_1024x1024.jpg?v=1661884647',
+'https://domf5oio6qrcr.cloudfront.net/medialibrary/7303/c67aa570-5406-40c3-97f5-fc6b8dc9b7a4.jpg']
