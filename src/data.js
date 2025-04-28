@@ -1,4 +1,3 @@
-// export const colors= [ '#81E7AF','red','#6DE1D2']
 export const images = ['https://dklkud2sn1tvi.cloudfront.net/blogposts/656d9c0509b9c7bee7abaac0/173058-363930.jpeg',
     'https://www.shutterstock.com/image-photo/child-plays-on-wooden-swing-600nw-2418520253.jpg',
     'https://images.pexels.com/photos/147411/italy-mountains-dawn-daybreak-147411.jpeg?cs=srgb&dl=pexels-pixabay-147411.jpg&fm=jpg',
